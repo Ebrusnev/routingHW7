@@ -1,0 +1,24 @@
+{
+  "name": "homeseven",
+  "version": "1.0.0",
+  "description": "home work #7/#8",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ebrusnev/routingHW7.git"
+  },
+  "author": "Evgenii_B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ebrusnev/routingHW7/issues"
+  },
+  "homepage": "https://github.com/Ebrusnev/routingHW7#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "nodemon": "^1.11.0"
+  }
+}
